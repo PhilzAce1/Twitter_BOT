@@ -42,7 +42,7 @@ class TwitterBot:
       time.sleep(60)
         
     
-ed = TwitterBot('ace1philz' , 'chukky162')  
+ed = TwitterBot('your username' , 'your password')  
 ed.login()
 time.sleep(5)
 ed.like_tweet('webdevelopment')
